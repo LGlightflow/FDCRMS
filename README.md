@@ -79,7 +79,7 @@ A[选择数据文件] -->B(主界面)
 
 
 ##4.截图
-!(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/1.png?raw=true)
+![photp](https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/1.png?raw=true)
 !(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/2.png?raw=true)
 !(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/3.png?raw=true)
 !(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/4.png?raw=true)
