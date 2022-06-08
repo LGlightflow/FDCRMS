@@ -1,5 +1,5 @@
 #程序设计：家庭消费记录管理系统  
-简介：为提倡合理消费，适度消费，规划消费，培养良好消费习惯，本系统用于记录家庭成员的消费金额，可记录每笔消费金额的消费日期、消费成员、消费品类、支出方式、消费场所、消费详情。
+题目要求：用于记录家庭成员的消费金额，可记录每笔消费金额的消费日期、消费成员、消费品类、支出方式、消费场所、消费详情。
 
 ##1.项目结构：
 
@@ -79,11 +79,8 @@ A[选择数据文件] -->B(主界面)
 
 
 ##4.截图
-!(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/1.png)
-!(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/2.png)
-!(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/3.png)
-!(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/4.png)
-!(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/5.png)
-
-
-
+!(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/1.png?raw=true)
+!(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/2.png?raw=true)
+!(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/3.png?raw=true)
+!(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/4.png?raw=true)
+!(https://github.com/LGlightflow/FDCRMS/blob/main/shortcut/5.png?raw=true)
